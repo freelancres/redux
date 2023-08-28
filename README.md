@@ -6,10 +6,8 @@
 
 
 
- <video controls width="640" height="360">
-  <source src="https://mega.nz/file/XQ5xQbbL#u1vFd4_1D52-RUrbC1E40ewbrfWdpKWMjQ9M9A2YnVU" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/XQ5xQbbL#u1vFd4_1D52-RUrbC1E40ewbrfWdpKWMjQ9M9A2YnVU" allowfullscreen ></iframe>
+
 
 
 
