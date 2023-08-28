@@ -2,4 +2,4 @@
   
   <img src="https://redux-toolkit.js.org/img/redux.svg" alt="Redux logo" width="50" style="margin: 0 10px;">
   
-</span> ### Redux Toolkit
+</span> ###Redux Toolkit
