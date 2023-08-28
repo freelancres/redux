@@ -5,4 +5,5 @@
 </span>
 
 
-<iframe width="640" height="360" frameborder="0" src="https://mega.nz/embed/XQ5xQbbL#u1vFd4_1D52-RUrbC1E40ewbrfWdpKWMjQ9M9A2YnVU" allowfullscreen ></iframe>
+[Click here to view the embedded content](https://mega.nz/embed/XQ5xQbbL#u1vFd4_1D52-RUrbC1E40ewbrfWdpKWMjQ9M9A2YnVU)
+
