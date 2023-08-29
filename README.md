@@ -6,9 +6,6 @@
 
 
 
-[![Video Preview]([https://img.youtube.com/vi](https://mega.nz/file/XQ5xQbbL#u1vFd4_1D52-RUrbC1E40ewbrfWdpKWMjQ9M9A2YnVU)/VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch](https://mega.nz/file/XQ5xQbbL#u1vFd4_1D52-RUrbC1E40ewbrfWdpKWMjQ9M9A2YnVU)https://mega.nz/file/XQ5xQbbL#u1vFd4_1D52-RUrbC1E40ewbrfWdpKWMjQ9M9A2YnVU?v=VIDEO_ID_HERE)
-
-
 
 
 
