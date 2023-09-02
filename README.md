@@ -23,7 +23,7 @@
   [![Redux Session -3_b: redux/toolkit](https://github.com/freelancres/redux/blob/main/redux-s2.png)](https://mega.nz/file/aF4DFSQK#HaNCuIEreU1Tu_KcgfuL7gCX4hI5_FbvUcsYZF_A9hI)
 
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMq8zioY=/?moveToViewport=-903,-730,1367,860&embedId=542459209630" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<div width="768" height="432" src="https://miro.com/app/live-embed/uXjVMq8zioY=/?moveToViewport=-903,-730,1367,860&embedId=542459209630" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></div>
 
 
 
